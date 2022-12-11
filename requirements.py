@@ -1,5 +1,5 @@
 import os,sys
-
+os.system("clear")
 print("\033[32m [+] Paketler İndiriliyor...\033[0m")
 print()
 
@@ -12,4 +12,3 @@ os.system("pip install socket")
 os.system("pip install json")
 print()
 print()
-print("\033[32m [+] Şimdi Başlatılıyor :- \033[34mgereksinimler.py \033[0m")
